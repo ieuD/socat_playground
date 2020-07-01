@@ -1,0 +1,181 @@
+2020/07/02 01:19:13 socat[20033] E bind(7, {AF=2 0.0.0.0:5001}, 16): Address already in use
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”12”,msg:”packet from client:A1”,timestamp:2020.07.02-01.19.21.979455105}] {2020.07.02-01.19.22.288721681}
+2020/07/02 01:19:22 socat[20083] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”11”,msg:”packet from client:A1”,timestamp:2020.07.02-01.19.22.286809193}] {2020.07.02-01.19.22.594901099}
+2020/07/02 01:19:22 socat[20104] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”5”,msg:”packet from client:A1”,timestamp:2020.07.02-01.19.22.592924942}] {2020.07.02-01.19.22.900801497}
+2020/07/02 01:19:22 socat[20124] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”1”,msg:”packet from client:A1”,timestamp:2020.07.02-01.19.22.899032706}] {2020.07.02-01.19.23.206468897}
+2020/07/02 01:19:23 socat[20144] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”4”,msg:”packet from client:A1”,timestamp:2020.07.02-01.19.23.205087991}] {2020.07.02-01.19.23.512939498}
+2020/07/02 01:19:23 socat[20164] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”17”,msg:”packet from client:A1”,timestamp:2020.07.02-01.19.23.511313795}] {2020.07.02-01.19.23.818901802}
+2020/07/02 01:19:23 socat[20186] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”3”,msg:”packet from client:A1”,timestamp:2020.07.02-01.19.23.817265508}] {2020.07.02-01.19.24.125038078}
+2020/07/02 01:19:24 socat[20206] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”9”,msg:”packet from client:A1”,timestamp:2020.07.02-01.19.24.123173339}] {2020.07.02-01.19.24.429437565}
+2020/07/02 01:19:24 socat[20226] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”13”,msg:”packet from client:A1”,timestamp:2020.07.02-01.19.24.428264136}] {2020.07.02-01.19.24.736196984}
+2020/07/02 01:19:24 socat[20247] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”20”,msg:”packet from client:A1”,timestamp:2020.07.02-01.19.24.734431510}] {2020.07.02-01.19.25.041954132}
+2020/07/02 01:19:25 socat[20268] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”10”,msg:”packet from client:A1”,timestamp:2020.07.02-01.19.25.040326775}] {2020.07.02-01.19.25.348251531}
+2020/07/02 01:19:25 socat[20288] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”8”,msg:”packet from client:A1”,timestamp:2020.07.02-01.19.25.345963772}] {2020.07.02-01.19.25.653600650}
+2020/07/02 01:19:25 socat[20308] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”16”,msg:”packet from client:A1”,timestamp:2020.07.02-01.19.25.651660780}] {2020.07.02-01.19.25.959111740}
+2020/07/02 01:19:25 socat[20329] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”19”,msg:”packet from client:A1”,timestamp:2020.07.02-01.19.25.957281214}] {2020.07.02-01.19.26.265041691}
+2020/07/02 01:19:26 socat[20350] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”6”,msg:”packet from client:A1”,timestamp:2020.07.02-01.19.26.263746585}] {2020.07.02-01.19.26.571309095}
+2020/07/02 01:19:26 socat[20370] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”18”,msg:”packet from client:A1”,timestamp:2020.07.02-01.19.26.569735519}] {2020.07.02-01.19.26.877635307}
+2020/07/02 01:19:26 socat[20391] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”2”,msg:”packet from client:A1”,timestamp:2020.07.02-01.19.26.875822234}] {2020.07.02-01.19.27.183423634}
+2020/07/02 01:19:27 socat[20411] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”14”,msg:”packet from client:A1”,timestamp:2020.07.02-01.19.27.181877158}] {2020.07.02-01.19.27.490013899}
+2020/07/02 01:19:27 socat[20439] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”15”,msg:”packet from client:A1”,timestamp:2020.07.02-01.19.27.488097934}] {2020.07.02-01.19.27.795780177}
+2020/07/02 01:19:27 socat[20460] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”7”,msg:”packet from client:A1”,timestamp:2020.07.02-01.19.27.794223512}] {2020.07.02-01.19.28.104475440}
+2020/07/02 01:19:28 socat[20480] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”11”,msg:”packet from client:A1”,timestamp:2020.07.02-01.20.21.300248837}] {2020.07.02-01.20.21.608110349}
+2020/07/02 01:20:21 socat[20531] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”16”,msg:”packet from client:A1”,timestamp:2020.07.02-01.20.21.606652018}] {2020.07.02-01.20.21.914289330}
+2020/07/02 01:20:21 socat[20552] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”17”,msg:”packet from client:A1”,timestamp:2020.07.02-01.20.21.912369187}] {2020.07.02-01.20.22.219949284}
+2020/07/02 01:20:22 socat[20574] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”2”,msg:”packet from client:A1”,timestamp:2020.07.02-01.20.22.218315796}] {2020.07.02-01.20.22.526047937}
+2020/07/02 01:20:22 socat[20600] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”4”,msg:”packet from client:A1”,timestamp:2020.07.02-01.20.22.524390424}] {2020.07.02-01.20.22.831678726}
+2020/07/02 01:20:22 socat[20620] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”10”,msg:”packet from client:A1”,timestamp:2020.07.02-01.20.22.830206438}] {2020.07.02-01.20.23.138393418}
+2020/07/02 01:20:23 socat[20640] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”12”,msg:”packet from client:A1”,timestamp:2020.07.02-01.20.23.136231695}] {2020.07.02-01.20.23.444465421}
+2020/07/02 01:20:23 socat[20661] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”1”,msg:”packet from client:A1”,timestamp:2020.07.02-01.20.23.442798551}] {2020.07.02-01.20.23.750338282}
+2020/07/02 01:20:23 socat[20681] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”20”,msg:”packet from client:A1”,timestamp:2020.07.02-01.20.23.748677213}] {2020.07.02-01.20.24.056483151}
+2020/07/02 01:20:24 socat[20702] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”8”,msg:”packet from client:A1”,timestamp:2020.07.02-01.20.24.054644770}] {2020.07.02-01.20.24.362166258}
+2020/07/02 01:20:24 socat[20722] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”9”,msg:”packet from client:A1”,timestamp:2020.07.02-01.20.24.360619011}] {2020.07.02-01.20.24.668061272}
+2020/07/02 01:20:24 socat[20742] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”15”,msg:”packet from client:A1”,timestamp:2020.07.02-01.20.24.666417614}] {2020.07.02-01.20.24.973911953}
+2020/07/02 01:20:24 socat[20763] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”6”,msg:”packet from client:A1”,timestamp:2020.07.02-01.20.24.972360228}] {2020.07.02-01.20.25.280001489}
+2020/07/02 01:20:25 socat[20783] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”19”,msg:”packet from client:A1”,timestamp:2020.07.02-01.20.25.278147129}] {2020.07.02-01.20.25.586045511}
+2020/07/02 01:20:25 socat[20804] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”18”,msg:”packet from client:A1”,timestamp:2020.07.02-01.20.25.584338045}] {2020.07.02-01.20.25.892269837}
+2020/07/02 01:20:25 socat[20825] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”7”,msg:”packet from client:A1”,timestamp:2020.07.02-01.20.25.890618365}] {2020.07.02-01.20.26.198131479}
+2020/07/02 01:20:26 socat[20845] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”5”,msg:”packet from client:A1”,timestamp:2020.07.02-01.20.26.196438720}] {2020.07.02-01.20.26.504316583}
+2020/07/02 01:20:26 socat[20865] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”14”,msg:”packet from client:A1”,timestamp:2020.07.02-01.20.26.502361585}] {2020.07.02-01.20.26.810305192}
+2020/07/02 01:20:26 socat[20886] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”13”,msg:”packet from client:A1”,timestamp:2020.07.02-01.20.26.808761752}] {2020.07.02-01.20.27.122107798}
+2020/07/02 01:20:27 socat[20907] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”3”,msg:”packet from client:A1”,timestamp:2020.07.02-01.20.27.118582860}] {2020.07.02-01.20.27.426485260}
+2020/07/02 01:20:27 socat[20927] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”15”,msg:”packet from client:A1”,timestamp:2020.07.02-01.21.04.351470017}] {2020.07.02-01.21.04.659594253}
+2020/07/02 01:21:04 socat[20984] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”20”,msg:”packet from client:A1”,timestamp:2020.07.02-01.21.04.657986674}] {2020.07.02-01.21.04.965960190}
+2020/07/02 01:21:04 socat[21005] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”16”,msg:”packet from client:A1”,timestamp:2020.07.02-01.21.04.964382055}] {2020.07.02-01.21.05.272274648}
+2020/07/02 01:21:05 socat[21026] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”11”,msg:”packet from client:A1”,timestamp:2020.07.02-01.21.05.270877932}] {2020.07.02-01.21.05.578660686}
+2020/07/02 01:21:05 socat[21047] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”10”,msg:”packet from client:A1”,timestamp:2020.07.02-01.21.05.577066792}] {2020.07.02-01.21.05.884602485}
+2020/07/02 01:21:05 socat[21067] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”4”,msg:”packet from client:A1”,timestamp:2020.07.02-01.21.05.882626888}] {2020.07.02-01.21.06.190506705}
+2020/07/02 01:21:06 socat[21087] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”19”,msg:”packet from client:A1”,timestamp:2020.07.02-01.21.06.188594818}] {2020.07.02-01.21.06.496040443}
+2020/07/02 01:21:06 socat[21108] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”3”,msg:”packet from client:A1”,timestamp:2020.07.02-01.21.06.494311156}] {2020.07.02-01.21.06.801806562}
+2020/07/02 01:21:06 socat[21128] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”12”,msg:”packet from client:A1”,timestamp:2020.07.02-01.21.06.800126237}] {2020.07.02-01.21.07.107988431}
+2020/07/02 01:21:07 socat[21149] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”7”,msg:”packet from client:A1”,timestamp:2020.07.02-01.21.07.106248394}] {2020.07.02-01.21.07.413964816}
+2020/07/02 01:21:07 socat[21169] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”2”,msg:”packet from client:A1”,timestamp:2020.07.02-01.21.07.412229738}] {2020.07.02-01.21.07.720039845}
+2020/07/02 01:21:07 socat[21191] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”14”,msg:”packet from client:A1”,timestamp:2020.07.02-01.21.07.718246098}] {2020.07.02-01.21.08.026260125}
+2020/07/02 01:21:08 socat[21212] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”13”,msg:”packet from client:A1”,timestamp:2020.07.02-01.21.08.024258690}] {2020.07.02-01.21.08.332496357}
+2020/07/02 01:21:08 socat[21233] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”18”,msg:”packet from client:A1”,timestamp:2020.07.02-01.21.08.330948719}] {2020.07.02-01.21.08.638161877}
+2020/07/02 01:21:08 socat[21259] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”8”,msg:”packet from client:A1”,timestamp:2020.07.02-01.21.08.637110074}] {2020.07.02-01.21.08.944977138}
+2020/07/02 01:21:08 socat[21279] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”1”,msg:”packet from client:A1”,timestamp:2020.07.02-01.21.08.943482690}] {2020.07.02-01.21.09.250890085}
+2020/07/02 01:21:09 socat[21299] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”9”,msg:”packet from client:A1”,timestamp:2020.07.02-01.21.09.249073476}] {2020.07.02-01.21.09.556740878}
+2020/07/02 01:21:09 socat[21321] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{UDP}:[{id:”131213035”,no:”17”,msg:”packet from client:A1”,timestamp:2020.07.02-01.21.09.554731699}] {2020.07.02-01.21.09.862874608}
+2020/07/02 01:21:09 socat[21342] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”6”,msg:”packet from client:A1”,timestamp:2020.07.02-01.21.09.861083175}] {2020.07.02-01.21.10.168627547}
+2020/07/02 01:21:10 socat[21362] W waitpid(-1, {}, WNOHANG): No child processes
+IP is: 192.168.99.12
+{ROUTER}-->{TCP}:[{id:”131213035”,no:”5”,msg:”packet from client:A1”,timestamp:2020.07.02-01.21.10.166779788}] {2020.07.02-01.21.10.474642314}
+2020/07/02 01:21:10 socat[21382] W waitpid(-1, {}, WNOHANG): No child processes
